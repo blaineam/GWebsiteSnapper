@@ -5,6 +5,8 @@ G Website Snapper
 
 A easy to use website thumbnail engines utilizing Google's PageSpeed API and some jQuery
 
+Demo at https://www.blaineam.com/projects
+
 ----------
 
 
